@@ -1,5 +1,5 @@
 # HappyApp 🤩
-Um aplicativo criado durante a Next Level Week with Rocketseat!
+Um aplicativo criado durante a Next Level Week #3 with Rocketseat!
 
 # About ✏
 >Uma aplicação para que crianças de todas as idades sejam acolhidas por instituições nele cadastradas
